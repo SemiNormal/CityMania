@@ -1,0 +1,10 @@
+D:\C# Projects\Serious\New Folder\CityMania\CityMania\bin\Release\CityMania.exe
+D:\C# Projects\Serious\New Folder\CityMania\CityMania\bin\Release\CityMania.pdb
+D:\C# Projects\Serious\New Folder\CityMania\CityMania\bin\Release\Mogre.dll
+D:\C# Projects\Serious\New Folder\CityMania\CityMania\bin\Release\MogreFramework.dll
+D:\C# Projects\Serious\New Folder\CityMania\CityMania\bin\Release\Mogre.pdb
+D:\C# Projects\Serious\New Folder\CityMania\CityMania\obj\Release\ResolveAssemblyReference.cache
+D:\C# Projects\Serious\New Folder\CityMania\CityMania\obj\Release\CityMania.Properties.Resources.resources
+D:\C# Projects\Serious\New Folder\CityMania\CityMania\obj\Release\CityMania.csproj.GenerateResource.Cache
+D:\C# Projects\Serious\New Folder\CityMania\CityMania\obj\Release\CityMania.exe
+D:\C# Projects\Serious\New Folder\CityMania\CityMania\obj\Release\CityMania.pdb
